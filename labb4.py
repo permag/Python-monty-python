@@ -33,10 +33,9 @@ from PIL import Image, ImageTk
         0-9: Hoppa mellan sidorna från sida 0 (intro), upp till sida 9, om denna finns.
 
 
-    Gjord av: Per Magnusson (pema3616@student.su.se)
+    Gjord av: Per Magnusson
 
-    Version: Python 2.7.2
-    Dator: Mac
+    Python: 2.7.2
     OS: OS X 10.8.4
 
 """
