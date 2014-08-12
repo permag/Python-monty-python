@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Monty Python",
+		"info": "Välkommen till en presentation av medlemmarna i Monty Python. Temat är Life of Brian (Ett herrans liv).",
+		"image": "./img/foot.png",
+		"audio": "./aud/intro.ogg"
+	},
+	{
+		"name": "Graham Chapman",
+		"info": "Graham Chapman, född 8 januari 1941 i Leicester, Leicestershire, död 4 oktober 1989 i Maidstone, Kent, var en brittisk komiker, manusförfattare och skådespelare, medlem i Monty Python. Chapman spelade huvudrollen i två av Monty Pythons filmer, som kung Arthur i Monty Pythons galna värld och Brian i Ett herrans liv.",
+		"image": "./img/chapman.png",
+		"audio": "./aud/speech.ogg"
+	},
+	{
+		"name": "John Cleese",
+		"info": "John Marwood Cleese, född 27 oktober 1939 i Weston-super-Mare, Somerset, är en brittisk komiker, skådespelare, manusförfattare, regissör och filmproducent. John Cleese är medlem, tillika en av grundarna, av den brittiska komikergruppen Monty Python.",
+		"image": "./img/cleese.png",
+		"audio": "./aud/stone.ogg"
+	},
+	{
+		"name": "Terry Gilliam",
+		"info": "Terence Vance \"Terry\" Gilliam, född 22 november 1940 i Minneapolis, Minnesota, är en amerikansk-brittisk regissör, skådespelare och animatör. Gilliam är en av medlemmarna i humorgruppen Monty Python. Han började som tecknare och animatör, med alster i tidningen HELP! och i Monty Pythons produktioner. Han är numera bosatt i England och har sedan 2006 brittiskt medborgarskap (efter 38 år med dubbelt amerikanskt-brittiskt medborgarskap).",
+		"image": "./img/gilliam.png",
+		"audio": "./aud/prophet.ogg"
+	},
+	{
+		"name": "Eric Idle",
+		"info": "Eric Idle, född 29 mars 1943 i South Shields, Tyne and Wear (i dåvarande County Durham), är en brittisk komiker, manusförfattare, regissör, skådespelare och kompositör. Medlem av komikergruppen Monty Python. Idle har skrivit många av Monty Pythons melodier. Den mest kända är antagligen \"Always Look on the Bright Side of Life\" från filmen Ett herrans liv (Life of Brian) från 1979. Han fick äran att framföra sången vid avslutningsceremonin för de Olympiska sommarspelen i London den 12 augusti 2012 inför ett fullsatt Olympiastadion och miljontals TV-tittare.",
+		"image": "./img/idle.png",
+		"audio": "./aud/bright_side.ogg"
+	},
+	{
+		"name": "Terry Jones",
+		"info": "Terry Jones, född 1 februari 1942 i Colwyn Bay, Clwyd, Wales, är en brittisk komiker, regissör, manusförfattare, författare och skådespelare, medlem i Monty Python. Han studerade vid St Edmund Hall, en del av Oxford University, där han träffade Michael Palin. Jones var gift 1970-2004 med Alison Telfer och de har två barn, födda 1974 och 1976. Han har även dottern Siri, född 2009, tillsammans med sin svenska flickvän.",
+		"image": "./img/jones.png",
+		"audio": "./aud/mother.ogg"
+	},
+	{
+		"name": "Michael Palin",
+		"info": "Michael Palin, född 5 maj 1943 i Sheffield, South Yorkshire, är en brittisk komiker, manusförfattare och skådespelare, medlem i Monty Python. Palin studerade historia vid Oxford University där han träffade Terry Jones och de började skriva sketcher tillsammans. Numera åker Palin världen runt och gör dokumentärfilmer om resor, mat och bilar. Hans reseberättelser ges även ut i bokform.",
+		"image": "./img/palin.png",
+		"audio": "./aud/biggus.ogg"
+	},
+	{
+		"name": "Egg and spam",
+		"info": "Denna sida visar vad som händer när man inte angivit bild och ljud i JSON-filen, eller om man angivit ett felaktigt namn på filerna. \n\n-Bilden som syns ovan visas då ingen giltig bild hittas. \n\n-Då inget ljud hittas inaktiveras \"Spela igen\"-knappen.",
+		"image": "felaktig_bild_blabla",
+		"audio": ""
+	},
+	{
+		"name": "I didn't expect this kind of Spanish Inquisition!",
+		"info": "Nobody expects the Spanish Inquisition!",
+		"image": "./img/spanish.png",
+		"audio": "./aud/spanish.ogg"
+	}
+]
+
+
+
